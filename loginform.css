@@ -1,0 +1,28 @@
+.h{
+  color:green
+  font-family:sansselif
+  font-weight:bold
+  text-align:center
+
+}
+.k{
+  align-item:center
+  font-family:sansselif
+  justfy-content:center
+  font-weight:bold
+  border-radius:10px
+  text-align:center
+  color:black
+  background-color:white
+}
+fieldset{
+  border-radius:15px
+    background-color:pink
+}
+.a{
+  hover:pink
+  text-align:center
+  font-weight:bold
+  font-family:sansselif
+  
+}
